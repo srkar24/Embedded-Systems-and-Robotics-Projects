@@ -16,3 +16,6 @@
 [submodule "tachometer"]
 	path = tachometer
 	url = https://github.com/srkar24/tachometer.git
+[submodule "barcode-scanner"]
+	path = barcode-scanner
+	url = https://github.com/srkar24/barcode-scanner.git
