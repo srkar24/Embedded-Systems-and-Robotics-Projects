@@ -1,3 +1,6 @@
 [submodule "msp432-tutorial"]
 	path = msp432-tutorial
 	url = https://github.com/srkar24/msp432-tutorial.git
+[submodule "gpio"]
+	path = gpio
+	url = https://github.com/srkar24/gpio.git
