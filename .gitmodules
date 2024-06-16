@@ -25,3 +25,6 @@
 [submodule "line-follower"]
 	path = line-follower
 	url = https://github.com/srkar24/line-follower.git
+[submodule "object-detection"]
+	path = object-detection
+	url = https://github.com/srkar24/object-detection.git
