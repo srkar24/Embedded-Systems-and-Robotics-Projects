@@ -7,3 +7,6 @@
 [submodule "reflectance-sensor"]
 	path = reflectance-sensor
 	url = https://github.com/srkar24/reflectance-sensor.git
+[submodule "periodic-interrupts"]
+	path = periodic-interrupts
+	url = https://github.com/srkar24/periodic-interrupts.git
