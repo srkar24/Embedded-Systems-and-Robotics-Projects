@@ -28,3 +28,6 @@
 [submodule "object-detection"]
 	path = object-detection
 	url = https://github.com/srkar24/object-detection.git
+[submodule "buddy-follower"]
+	path = buddy-follower
+	url = https://github.com/srkar24/buddy-follower.git
