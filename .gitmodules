@@ -10,3 +10,6 @@
 [submodule "periodic-interrupts"]
 	path = periodic-interrupts
 	url = https://github.com/srkar24/periodic-interrupts.git
+[submodule "motor-control"]
+	path = motor-control
+	url = https://github.com/srkar24/motor-control.git
