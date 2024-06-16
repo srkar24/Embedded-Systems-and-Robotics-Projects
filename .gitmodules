@@ -22,3 +22,6 @@
 [submodule "i2c"]
 	path = i2c
 	url = https://github.com/srkar24/i2c.git
+[submodule "line-follower"]
+	path = line-follower
+	url = https://github.com/srkar24/line-follower.git
