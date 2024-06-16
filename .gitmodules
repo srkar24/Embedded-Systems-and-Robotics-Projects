@@ -13,3 +13,6 @@
 [submodule "motor-control"]
 	path = motor-control
 	url = https://github.com/srkar24/motor-control.git
+[submodule "tachometer"]
+	path = tachometer
+	url = https://github.com/srkar24/tachometer.git
