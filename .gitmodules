@@ -19,3 +19,6 @@
 [submodule "barcode-scanner"]
 	path = barcode-scanner
 	url = https://github.com/srkar24/barcode-scanner.git
+[submodule "i2c"]
+	path = i2c
+	url = https://github.com/srkar24/i2c.git
