@@ -4,3 +4,6 @@
 [submodule "gpio"]
 	path = gpio
 	url = https://github.com/srkar24/gpio.git
+[submodule "reflectance-sensor"]
+	path = reflectance-sensor
+	url = https://github.com/srkar24/reflectance-sensor.git
